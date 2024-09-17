@@ -28,9 +28,6 @@ Essa mensagem diz que um certificado foi criado dentro da pasta `/bin` do Jmeter
 > /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin
 > ```
 
-Como estou usando o Jmeter instalado via Homebrew, para acessar o arquivo `ApacheJMeterTemporaryRootCA.crt` precisa ser pelo:
-`/opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin`
-
 ### No Firefox
 
 Vá para os `Ajustes` e procure por `certificados`
